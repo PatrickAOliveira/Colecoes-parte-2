@@ -14,4 +14,4 @@ Neste exercício deverá ser feito:
 
 ## Resultado
 
-![Resultado]()
+![Resultado](resultado.png)
